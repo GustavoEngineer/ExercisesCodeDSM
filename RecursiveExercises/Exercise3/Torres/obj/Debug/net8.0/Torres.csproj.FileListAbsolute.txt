@@ -1,0 +1,14 @@
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\bin\Debug\net8.0\Torres.exe
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\bin\Debug\net8.0\Torres.deps.json
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\bin\Debug\net8.0\Torres.runtimeconfig.json
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\bin\Debug\net8.0\Torres.dll
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\bin\Debug\net8.0\Torres.pdb
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.AssemblyInfoInputs.cache
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.AssemblyInfo.cs
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.csproj.CoreCompileInputs.cache
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.dll
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\refint\Torres.dll
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.pdb
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\Torres.genruntimeconfig.cache
+C:\Users\DevMa\OneDrive\Escritorio\RecursiveExercises\Exercise3\Torres\obj\Debug\net8.0\ref\Torres.dll
