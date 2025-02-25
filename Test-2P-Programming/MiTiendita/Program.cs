@@ -113,7 +113,7 @@ class Program
                     return;
 
                 default:
-                    Console.WriteLine("⚠️ Error: Ingresa una opción válida (1-4).");
+                    Console.WriteLine("Error: Ingresa una opción válida (1-4).");
                     break;
             }
         }
