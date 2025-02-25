@@ -1,0 +1,14 @@
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/bin/Debug/net8.0/MiTiendita
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/bin/Debug/net8.0/MiTiendita.deps.json
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/bin/Debug/net8.0/MiTiendita.runtimeconfig.json
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/bin/Debug/net8.0/MiTiendita.dll
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/bin/Debug/net8.0/MiTiendita.pdb
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.AssemblyInfoInputs.cache
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.AssemblyInfo.cs
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.csproj.CoreCompileInputs.cache
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.dll
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/refint/MiTiendita.dll
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.pdb
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/MiTiendita.genruntimeconfig.cache
+/home/marrufo-engineer/Desktop/Test-Code/MiTiendita/obj/Debug/net8.0/ref/MiTiendita.dll
