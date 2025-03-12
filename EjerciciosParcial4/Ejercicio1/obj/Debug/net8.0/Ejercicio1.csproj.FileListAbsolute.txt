@@ -1,0 +1,14 @@
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/bin/Debug/net8.0/Ejercicio1
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/bin/Debug/net8.0/Ejercicio1.deps.json
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/bin/Debug/net8.0/Ejercicio1.runtimeconfig.json
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/bin/Debug/net8.0/Ejercicio1.dll
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/bin/Debug/net8.0/Ejercicio1.pdb
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.AssemblyInfo.cs
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.dll
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/refint/Ejercicio1.dll
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.pdb
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/Ejercicio1.genruntimeconfig.cache
+/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio1/obj/Debug/net8.0/ref/Ejercicio1.dll
