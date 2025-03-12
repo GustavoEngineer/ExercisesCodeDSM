@@ -2,31 +2,41 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        string [] Nombres = new string[5];
+        string[] nombres = new string[5]; // Declaramos un array de 5 nombres
 
-        Console.WriteLine("Escribe 5 nombres diferentes");
-    
-            for (int i = 0; i < 5; i++)
+        // Llenamos el array con nombres ingresados por el usuario
+        Console.WriteLine("Ingresa 5 nombres:");
+        for (int i = 0; i < 5; i++)
+        {
+            Console.Write($"Nombre {i + 1}: ");
+            nombres[i] = Console.ReadLine() ?? "";
+        }
+
+        // Solicitamos el nombre a buscar
+        Console.Write("\nIngrese el nombre que desea buscar: ");
+        string nombreBuscado = Console.ReadLine() ?? "";
+
+        // Buscamos el nombre en el array
+        int posicion = -1; // -1 indica que no se encontró
+        for (int i = 0; i < 5; i++)
+        {
+            if (nombres[i].Equals(nombreBuscado, StringComparison.OrdinalIgnoreCase)) // Comparación sin diferenciar mayúsculas
             {
-                Console.WriteLine($"Nombre {i + 1}: ");
-                Nombres[i] = Console.ReadLine() ?? "";
+                posicion = i;
+                break; // Detenemos la búsqueda al encontrar el primer resultado
             }
+        }
 
-        // Buscador de nombres
-            Console.Write("Ingrese un nombre para buscar: ");
-            string nombreBuscado = Console.ReadLine() ?? "";
-
-        // Salida
-            int Posision = Array.IndexOf(Nombres, nombreBuscado);
-            
-            if (Posision == -1)
-            {
-                Console.WriteLine($"El nombre {nombreBuscado} no se encuentra disponible");
-            } else
-            {
-                Console.WriteLine($"El nombre {nombreBuscado} se encuentra en la posisión {Posision + 1}");
-            }
+        // Mostramos el resultado
+        if (posicion != -1)
+        {
+            Console.WriteLine($"\nEl nombre '{nombreBuscado}' fue encontrado en la posición {posicion}.");
+        }
+        else
+        {
+            Console.WriteLine($"\nEl nombre '{nombreBuscado}' no está en la lista.");
+        }
     }
 }

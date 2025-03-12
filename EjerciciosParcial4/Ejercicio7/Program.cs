@@ -6,7 +6,7 @@ class Ejercicio7
     static void Main()
     {
         Console.WriteLine("Escriba un texto para guardar en el archivo:");
-        string texto = Console.ReadLine();
+        string texto = Console.ReadLine() ?? "";
         File.WriteAllText("texto.txt", texto);
         Console.WriteLine("Texto guardado en texto.txt");
         

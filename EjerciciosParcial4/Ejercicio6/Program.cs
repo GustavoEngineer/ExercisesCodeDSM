@@ -1,35 +1,50 @@
 ﻿using System;
-using System.IO;
-using System.Linq;
+using System.IO; // Necesario para manejo de archivos
 
-class Ejercicio6
+class Program
 {
     static void Main()
     {
-        using (StreamWriter sw = new StreamWriter("notas.txt"))
+        string archivo = "notas.txt";
+
+        // Paso 1: Pedir el número de estudiantes
+        Console.Write("Ingrese el número de estudiantes: ");
+        int numEstudiantes = int.Parse(Console.ReadLine() ?? "");
+
+        // Paso 2: Pedir los datos de cada estudiante
+        using (StreamWriter writer = new StreamWriter(archivo))
         {
-            string continuar;
-            do
+            for (int i = 0; i < numEstudiantes; i++)
             {
-                Console.Write("Ingrese el nombre del estudiante: ");
+                Console.Write($"\nIngrese el nombre del estudiante {i + 1}: ");
                 string nombre = Console.ReadLine() ?? "";
-                Console.Write("Ingrese 3 calificaciones separadas por espacio: ");
+
+                Console.Write($"Ingrese las 3 calificaciones de {nombre} separadas por espacio: ");
                 string calificaciones = Console.ReadLine() ?? "";
-                sw.WriteLine(nombre + "," + calificaciones);
-                Console.Write("¿Desea ingresar otro estudiante? (s/n): ");
-                continuar = Console.ReadLine() ?? "".ToLower();
-            } while (continuar == "s");
+
+                writer.WriteLine($"{nombre} {calificaciones}");
+            }
         }
 
-        Console.WriteLine("Datos guardados en notas.txt.");
-        string[] lineas = File.ReadAllLines("notas.txt");
-        Console.WriteLine("Promedios de estudiantes:");
-        foreach (var linea in lineas)
+        Console.WriteLine("\nLos datos han sido guardados en notas.txt");
+
+        // Paso 3: Leer el archivo y calcular los promedios
+        Console.WriteLine("\nPromedios de los estudiantes:");
+
+        string[] lineas = File.ReadAllLines(archivo);
+        foreach (string linea in lineas)
         {
-            var datos = linea.Split(',');
-            string nombre = datos[0];
-            double promedio = datos.Skip(1).Select(double.Parse).Average();
-            Console.WriteLine($"{nombre}: {promedio:F2}");
+            string[] datos = linea.Split(' '); // Dividimos los datos por espacios
+            string nombre = datos[0]; // El primer dato es el nombre
+
+            // Convertimos las calificaciones a enteros
+            int nota1 = int.Parse(datos[1]);
+            int nota2 = int.Parse(datos[2]);
+            int nota3 = int.Parse(datos[3]);
+
+            double promedio = (nota1 + nota2 + nota3) / 3.0; // Calculamos el promedio
+
+            Console.WriteLine($"{nombre} - Promedio: {promedio:F1}");
         }
     }
 }

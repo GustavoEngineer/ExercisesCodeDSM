@@ -1,22 +1,29 @@
 ﻿using System;
-using System.IO;
+using System.IO; // Necesario para manejo de archivos
 
-class Ejercicio5
+class Program
 {
     static void Main()
     {
-        string[] nombres = new string[5];
+        string[] nombres = new string[5]; // Paso 1: Crear el array
+
+        // Paso 2: Pedir los nombres al usuario
         Console.WriteLine("Ingrese 5 nombres:");
         for (int i = 0; i < 5; i++)
         {
-            nombres[i] = Console.ReadLine();
+            Console.Write($"Nombre {i + 1}: ");
+            nombres[i] = Console.ReadLine() ?? "";
         }
-        File.WriteAllLines("nombres.txt", nombres);
-        Console.WriteLine("Nombres guardados en el archivo.");
-        
-        string[] nombresLeidos = File.ReadAllLines("nombres.txt");
-        Console.WriteLine("Nombres leídos del archivo:");
-        foreach (var nombre in nombresLeidos)
+
+        // Paso 3: Guardar los nombres en un archivo
+        string archivo = "nombres.txt";
+        File.WriteAllLines(archivo, nombres);
+        Console.WriteLine("\nLos nombres han sido guardados en el archivo nombres.txt");
+
+        // Paso 4: Leer el archivo y mostrar los nombres almacenados
+        Console.WriteLine("\nLos nombres guardados en el archivo son:");
+        string[] nombresGuardados = File.ReadAllLines(archivo);
+        foreach (string nombre in nombresGuardados)
         {
             Console.WriteLine(nombre);
         }

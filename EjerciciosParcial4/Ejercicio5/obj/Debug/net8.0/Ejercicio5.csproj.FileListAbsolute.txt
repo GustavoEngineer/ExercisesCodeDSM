@@ -1,0 +1,15 @@
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/bin/Debug/net8.0/Ejercicio5
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/bin/Debug/net8.0/Ejercicio5.deps.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/bin/Debug/net8.0/Ejercicio5.runtimeconfig.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/bin/Debug/net8.0/Ejercicio5.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/bin/Debug/net8.0/Ejercicio5.pdb
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.AssemblyInfoInputs.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.AssemblyInfo.cs
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.csproj.CoreCompileInputs.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.sourcelink.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/refint/Ejercicio5.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.pdb
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/Ejercicio5.genruntimeconfig.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio5/obj/Debug/net8.0/ref/Ejercicio5.dll

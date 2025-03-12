@@ -12,14 +12,14 @@ class Ejercicio9
             do
             {
                 Console.Write("Ingrese el nombre del producto: ");
-                string producto = Console.ReadLine();
+                string producto = Console.ReadLine() ?? "";
                 Console.Write("Ingrese la cantidad vendida: ");
-                int cantidad = int.Parse(Console.ReadLine());
+                int cantidad = int.Parse(Console.ReadLine() ?? "");
                 Console.Write("Ingrese el precio unitario: ");
-                double precio = double.Parse(Console.ReadLine());
+                double precio = double.Parse(Console.ReadLine() ?? "");
                 sw.WriteLine($"{producto},{cantidad},{precio}");
                 Console.Write("¿Desea ingresar otra venta? (s/n): ");
-                continuar = Console.ReadLine().ToLower();
+                continuar = Console.ReadLine() ?? "".ToLower();
             } while (continuar == "s");
         }
         

@@ -4,44 +4,45 @@ class Program
 {
     static void Main()
     {
-        int[] numeros = { 5, 3, 8, 4, 2 }; // Array desordenado
+        // Paso 1: Pedimos el tamaño del array
+        Console.Write("Ingrese la cantidad de números: ");
+        int n = int.Parse(Console.ReadLine() ?? "");
+        int[] numeros = new int[n]; // Creamos el array
 
-        Console.WriteLine("Array antes de ordenar:");
-        MostrarArray(numeros); // Mostramos los números originales
-
-        OrdenamientoBurbuja(numeros); // Aplicamos el método de ordenamiento
-
-        Console.WriteLine("\nArray después de ordenar:");
-        MostrarArray(numeros); // Mostramos el array ordenado
-    }
-
-    // Método que implementa el Ordenamiento Burbuja
-    static void OrdenamientoBurbuja(int[] arreglo)
-    {
-        int n = arreglo.Length; // Tamaño del array
-
-        for (int i = 0; i < n - 1; i++) // Bucle para controlar el número de pasadas
+        // Paso 2: Pedimos los números al usuario
+        Console.WriteLine($"Ingrese {n} números:");
+        for (int i = 0; i < n; i++)
         {
-            for (int j = 0; j < n - i - 1; j++) // Comparaciones dentro de cada pasada
-            {
-                if (arreglo[j] > arreglo[j + 1]) // Si el número actual es mayor que el siguiente
-                {
-                    // Intercambiamos los valores (swap)
-                    int temp = arreglo[j];
-                    arreglo[j] = arreglo[j + 1];
-                    arreglo[j + 1] = temp;
-                }
-            }
+            Console.Write($"Número {i + 1}: ");
+            numeros[i] = int.Parse(Console.ReadLine() ?? "");
         }
-    }
 
-    // Método para mostrar el array
-    static void MostrarArray(int[] arreglo)
-    {
-        foreach (int num in arreglo)
+        // Paso 3: Aplicamos el método de burbuja
+        BubbleSort(numeros);
+
+        // Paso 4: Mostramos los números ordenados
+        Console.WriteLine("\nNúmeros ordenados de menor a mayor:");
+        foreach (int num in numeros)
         {
             Console.Write(num + " ");
         }
-        Console.WriteLine();
+    }
+
+    // Método que implementa el ordenamiento burbuja
+    static void BubbleSort(int[] arr)
+    {
+        int n = arr.Length;
+        for (int i = 0; i < n - 1; i++) // Bucle externo controla las pasadas
+        {
+            for (int j = 0; j < n - i - 1; j++) // Bucle interno para comparar elementos
+            {
+                if (arr[j] > arr[j + 1]) // Si el número actual es mayor al siguiente, los intercambiamos
+                {
+                    int temp = arr[j]; // Guardamos el valor temporalmente
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
     }
 }

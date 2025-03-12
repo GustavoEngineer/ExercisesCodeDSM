@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio6/Ejercicio6.csproj": {}
+    "/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio6/Ejercicio6.csproj": {}
   },
   "projects": {
-    "/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio6/Ejercicio6.csproj": {
+    "/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio6/Ejercicio6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio6/Ejercicio6.csproj",
+        "projectUniqueName": "/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio6/Ejercicio6.csproj",
         "projectName": "Ejercicio6",
-        "projectPath": "/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio6/Ejercicio6.csproj",
+        "projectPath": "/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio6/Ejercicio6.csproj",
         "packagesPath": "/home/marrufo-engineer/.nuget/packages/",
-        "outputPath": "/home/marrufo-engineer/Documents/Gustavitotlgac/EjerciciosP4/Ejercicio6/obj/",
+        "outputPath": "/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marrufo-engineer/.nuget/NuGet/NuGet.Config"
