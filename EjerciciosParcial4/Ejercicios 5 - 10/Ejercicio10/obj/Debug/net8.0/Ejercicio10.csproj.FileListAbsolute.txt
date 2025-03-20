@@ -1,0 +1,30 @@
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/bin/Debug/net8.0/Ejercicio10
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/bin/Debug/net8.0/Ejercicio10.deps.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/bin/Debug/net8.0/Ejercicio10.runtimeconfig.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/bin/Debug/net8.0/Ejercicio10.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/bin/Debug/net8.0/Ejercicio10.pdb
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.AssemblyInfoInputs.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.AssemblyInfo.cs
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.csproj.CoreCompileInputs.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.sourcelink.json
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/refint/Ejercicio10.dll
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.pdb
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/Ejercicio10.genruntimeconfig.cache
+/home/marrufo-engineer/Documents/MaufoEngineer/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicio10/obj/Debug/net8.0/ref/Ejercicio10.dll
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/bin/Debug/net8.0/Ejercicio10
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/bin/Debug/net8.0/Ejercicio10.deps.json
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/bin/Debug/net8.0/Ejercicio10.runtimeconfig.json
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/bin/Debug/net8.0/Ejercicio10.dll
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/bin/Debug/net8.0/Ejercicio10.pdb
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.AssemblyInfoInputs.cache
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.AssemblyInfo.cs
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.csproj.CoreCompileInputs.cache
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.sourcelink.json
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.dll
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/refint/Ejercicio10.dll
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.pdb
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/Ejercicio10.genruntimeconfig.cache
+/home/marrufoengineer/Documents/Repositories/ExercisesCodeDSM/EjerciciosParcial4/Ejercicios 5 - 10/Ejercicio10/obj/Debug/net8.0/ref/Ejercicio10.dll
