@@ -1,0 +1,14 @@
+C:\Users\DevMa\Documents\PreEvaluacion\bin\Debug\net8.0\PreEvaluacion.exe
+C:\Users\DevMa\Documents\PreEvaluacion\bin\Debug\net8.0\PreEvaluacion.deps.json
+C:\Users\DevMa\Documents\PreEvaluacion\bin\Debug\net8.0\PreEvaluacion.runtimeconfig.json
+C:\Users\DevMa\Documents\PreEvaluacion\bin\Debug\net8.0\PreEvaluacion.dll
+C:\Users\DevMa\Documents\PreEvaluacion\bin\Debug\net8.0\PreEvaluacion.pdb
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.AssemblyInfoInputs.cache
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.AssemblyInfo.cs
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.dll
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\refint\PreEvaluacion.dll
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.pdb
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\PreEvaluacion.genruntimeconfig.cache
+C:\Users\DevMa\Documents\PreEvaluacion\obj\Debug\net8.0\ref\PreEvaluacion.dll
