@@ -1,0 +1,15 @@
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\bin\Debug\net8.0\Examen3erParcial.exe
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\bin\Debug\net8.0\Examen3erParcial.deps.json
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\bin\Debug\net8.0\Examen3erParcial.runtimeconfig.json
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\bin\Debug\net8.0\Examen3erParcial.dll
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\bin\Debug\net8.0\Examen3erParcial.pdb
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.AssemblyInfoInputs.cache
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.AssemblyInfo.cs
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.csproj.CoreCompileInputs.cache
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.sourcelink.json
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.dll
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\refint\Examen3erParcial.dll
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.pdb
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\Examen3erParcial.genruntimeconfig.cache
+C:\Users\DevMa\OneDrive\Escritorio\Repos\ExercisesCodeDSM\Examen3erParcial\obj\Debug\net8.0\ref\Examen3erParcial.dll
